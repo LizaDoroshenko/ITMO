@@ -2,4 +2,4 @@
 npm install
 
 Запустить:
-npm start
+npm run dev

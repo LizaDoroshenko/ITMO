@@ -1,0 +1,27 @@
+.postsSection {
+  position: relative;
+  width: 1210px;
+  height: 1504px;
+  top: 40px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+}
+
+.posts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: space-around;
+}
+
+.postsHeader {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+    color: #222222;
+}
+
